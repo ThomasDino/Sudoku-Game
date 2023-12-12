@@ -28,7 +28,7 @@
 <br/>
 - Networking (Sockets)
 <br/>
-- Multi-threading
+- Syncrhonization
 <br/>
 - Object-Oriented Programming
 
@@ -49,6 +49,7 @@
 
 <h2>Credits</h2>
 
-- Author: [Your Name]
+- Author: Thomas Dinopoulos
+- Co-Author: Doosan Baik
 
 </p>
